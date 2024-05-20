@@ -1,0 +1,68 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px 5vw ;
+    padding: 0;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.comment {
+    margin-top: 20px;
+}
+
+.comment h3 {
+    color:#2440cc;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.comment p {
+    margin: 0;
+    color: #666;
+}
+
+h1{
+    text-align: center;
+    font-size: large;
+    font-weight: 400;
+}
+
+h2{
+    border: none;
+    outline: none;
+    font-size: medium;
+    font-weight: 300;
+}
+
+ .detail{
+    margin: 0 5vw ;
+    padding: 5px 20px;
+}
